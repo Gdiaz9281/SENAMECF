@@ -5,7 +5,7 @@ Sistema de Bienestar Social para la automatización y gestión en las áreas de 
 Integrantes
 
 - Gabriel Díaz
-- Becker Viso
+- Geremy Viso
 - kleyver Barrios
 - Ricargo Serrano
 - Carlos Guaman
